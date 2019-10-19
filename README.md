@@ -1,2 +1,1 @@
-# 5-restaurant-stage-master-udacity
-udacity 5-project
+5-restaurant-stage-master-udacity
